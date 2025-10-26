@@ -1,16 +1,17 @@
 # overview
 
-CP437 ANSI viewer with scrolling and SAUCE support in your UTF-8 | version 1.0 | (c) 2025 hollowone/oftenhide
-Distributed under BSD-2 license
+CP437 ANSI viewer with scrolling and SAUCE support in your UTF-8 <br/>
+Version 2.0 | (c) 2025 hollowone/oftenhide <br/>
+<br/>
+Distributed under BSD-2 license <br/>
 
 # usage
 
-Usage: ansview.py [-h] [--cat] [--sauce] [file]
+Usage: ansview2_0.py [-h] [--sauce] [file] <br/>
 
-positional arguments:
-  file                  ANS file (or stdin with -)
+positional arguments:<br/>
+  file                  ANS file (or stdin with -)<br/>
 
 options:
-  -h, --help            show this help message and exit
-  --cat                 Dump raw ANSI to stdout
-  --sauce               Show SAUCE metadata including comments
+  -h, --help            show this help message and exit  <br/>
+  --sauce               Show SAUCE metadata including comments<br/>
